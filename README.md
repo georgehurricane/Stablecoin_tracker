@@ -12,4 +12,4 @@ This uses the following libraries:
    `pip install -r requirements.txt`
 3. Run the below statement
    `python main.py`
-4. You will get data in `netflows.json`
+4. You will get data in `netflows.json` 
