@@ -1,3 +1,5 @@
+from src.netflow_tracker import NetflowTracker
+
 def main():
     """
     This function is the entry point of the application. It initializes the NetflowTracker,
